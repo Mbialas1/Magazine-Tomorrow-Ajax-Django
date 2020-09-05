@@ -1,0 +1,3 @@
+Przed otwarciem wprowadź dane do wysyłania maila w bin > bin > settings.py na samym dole.
+
+/main - jest to główny program omijając etap logowania.
